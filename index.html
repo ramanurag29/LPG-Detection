@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LPG Detection and Prevention System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>LPG Detection and Prevention System</h1>
+    </header>
+    <main>
+        <section id="gas-level">
+            <h2><i class="fa-solid fa-gauge-high"></i> Live LPG Gas Level</h2>
+            <div id="gas-level-display">Loading...</div>
+        </section>
+        <section id="alerts">
+            <h2><i class="fa-solid fa-bell"></i> Alerts</h2>
+            <div id="alerts-display">No alerts</div>
+        </section>
+        <section id="controls">
+            <h2><i class="fa-solid fa-gear"></i> Automated Prevention Controls</h2>
+            <div id="controls-display">
+                <button id="exhaust-button" class="control-button"><i class="fa-solid fa-fan"></i> Turn On Exhaust</button>
+                <button id="regulator-button" class="control-button"><i class="fa-solid fa-power-off"></i> Turn Off Regulator</button>
+            </div>
+        </section>
+        <section id="emergency">
+            <h2><i class="fa-solid fa-phone"></i> Emergency</h2>
+            <div id="emergency-display">
+                <button id="call-button" class="call-button"><i class="fa-solid fa-phone"></i> Call Emergency</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 LPG Detection and Prevention System</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
