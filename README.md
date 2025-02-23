@@ -38,10 +38,10 @@ Alongside the hardware system, we developed a **web-based dashboard** to monitor
 
 ## 📸 Project Screenshots  
 ### 🖥️ Web Interface  
-![Website UI](https://github.com/user-attachments/assets/e110d3a0-b5b4-4749-b28b-8e30e04cd946)  
+![Website UI](https://github.com/user-attachments/assets/b59c0404-f71c-45cb-b86c-e42d36fd4806)  
 
 ### 📟 LCD Display Readings  
-![LCD Display](https://github.com/user-attachments/assets/b59c0404-f71c-45cb-b86c-e42d36fd4806)  
+![LCD Display](https://github.com/user-attachments/assets/e110d3a0-b5b4-4749-b28b-8e30e04cd946)  
 
 ---
 
